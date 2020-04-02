@@ -1,0 +1,66 @@
+[
+    
+
+	{
+		"title": "Preston Castle, Ione",
+		"lat": 38.3596522,
+		"lng": -120.936708,
+		"description": "<h4>Preston Castle</h4><p>The castle’s foreboding facade looks straight out of a horror film. Once a reform school for unruly youth and abandoned children, the structure’s sinister history includes corporal punishment, toxic dunking baths, and a housekeeper’s murder. Open for tours year-round, the Amador County castle turns into a full-fledged haunted house come October.</p>"
+	},
+	
+	{
+		"title": "Moaning Cavern, Vallecito",
+		"lat": 38.0690147,
+		"lng":-120.4682171,
+		"description": "<h4>Moaning Cavern</h4><p>Named for the wailing sound air once made passing through the cave (prior to its eventual widening), this Calaveras County wonder is also a site for some of America’s most ancient remains. Bones up to 12,000 years old have been discovered here, and many believe that the cavern is home to prehistoric paranormal activity.</p>"
+	},
+    	{
+		"title": "Winchester Mystery House, San Jose",
+		"lat": 37.318336,
+		"lng": -121.9532378,
+		"description": "<h4>Winchester Mystery House</h4><p>A door that leads to nowhere and a staircase that dead ends into the ceiling? It’s said that widow Sarah Winchester designed the house this peculiar way to confuse the ghosts: men killed by her late husband’s creation, the Winchester rifle.</p>"
+	},
+    	{
+		"title": "The Queen Mary, Long Beach",
+		"lat": 33.75264,
+		"lng": -118.1925122,
+		"description": "<h4>The Queen Mary</h4><p>Once known as the “Grey Ghost,” the Queen Mary serves up chills in the form of screams from a decapitated sailor in the boiler room and visions of a lady in white roaming the halls. Visitors can choose from a handful of haunted tours, or book a stay in Stateroom B340 for overnight thrills.</p>"
+	},
+    	{
+		"title": "Alcatraz Island, San Fransisco",
+		"lat": 37.8269817,
+		"lng": -122.4251442,
+		"description": "<h4>Alcatraz Island</h4><p>There are more stories about ghosts, unexplained apparitions, and frightening experiences from visitors to Alcatraz than there ever were prisoners at the infamous island lock up. Tourists reported rattling chains, cold chills, and phantom gunshots over the decades. </p>"
+	},
+    	{
+		"title": "Bodie State Historic Park, Bodie",
+		"lat": 38.2122762,
+		"lng": -119.0134237,
+		"description": "<h4>Bodie State Historic Park</h4><p>Spanning 500 acres in Mono County, about 75 miles southeast of Lake Tahoe, Bodie is a Gold Rush–era ghost town frozen in time. More than 100 structures remain, as do the supposed spirits of prospectors. While dishware shards and nails can be found on the streets, anyone who takes home a souvenir risks the curse of Bodie (and it’s also against park rules).</p>"
+	},
+    	{
+		"title": "Potter Schoolhouse, Bodega Bay",
+		"lat": 38.3459534,
+		"lng": -122.9740567,
+		"description": "<h4>Potter Schoolhouse</h4><p>Potter Schoolhouse just has a creepy vibe – one so eerie that it was even featured in Alfred Hitchcock’s 1963 horror “The Birds”.  Built in 1863, the building served as both the town’s schoolhouse and town center, with social events held upstairs. Almost a century later it was closed to the public, and later purchased and turned into a private residence. Ever since it has been teeming with ghost stories, including strange sounds of children playing coming from the building. The inside remains closed off to the public but visitors can still swing by to check it out from the front.</p>"
+	},
+    	{
+		"title": "Point Sur Lighthouse, Big Sur",
+		"lat": 36.3063643,
+		"lng": -121.9038285,
+		"description": "<h4>Point Sur Lighthouse</h4><p>This picturesque lighthouse has been illuminating the waters off the coast of Big Sur since 1889. Perhaps it’s the original keeper who some believe still visits the site in his original uniform. Moonlight tours are available for the brave and the curious.</p>"
+	},
+    	{
+		"title": "The Old Zoo, Los Angeles",
+		"lat": 34.1339393,
+		"lng": -118.2912265,
+		"description": "<h4>The Old Zoo</h4><p>By day this is a delightful throwback to one of the first zoos in LA. Lions, bears and monkeys were all residents of these cave-like facades and cages, which is now a picnic area. By night the feeling is much more sinister. The spirits of the unhappy creatures that once inhabited these tiny dwellings can often be felt and heard.</p>"
+	},
+    
+    	{
+		"title": "Abandoned Nazi Bunker, Los Angeles",
+		"lat": 34.0703757,
+		"lng": -118.516568,
+		"description": "<h4>Abandoned Nazi Bunker</h4><p>A secret hiking area in LA will lead you to Murphy Ranch, an abandoned Nazi compound built in the middle of the mountains by some super-smart dudes who thought Germany would win WWII and come take over America. Fifty caretakers were arrested by local police in 1941 the day after the attack on Pearl Harbor, and as of 1990 it was completely abandoned, leaving your inner Indiana Jones to geek out over engine parts, crumbled huts, and even an overturned '40s VW Bus.</p>"
+	}
+]

@@ -1,0 +1,32 @@
+.header {
+    font-family: shlop, sans-serif;
+
+font-weight: 400;
+
+font-style: normal;
+    text-align: center;
+    color: orange;
+    padding: 20px;
+    font-size: 60px;
+}
+
+body{
+    background-color: black;
+}
+
+h4{
+     font-family: shlop, sans-serif;
+    text-align: center;
+    letter-spacing: 2px;
+    color: #630000;
+}
+h2{
+    font-family: shlop, sans-serif;
+    text-align: center;
+     color: #630000;
+}
+
+p{
+    color:black;
+  
+}
